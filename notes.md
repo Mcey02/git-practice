@@ -27,3 +27,16 @@ Show history
 ------------
 
     git log
+
+Push to online
+--------------
+git push
+
+Get from online
+---------------
+git pull
+
+Copy a file at home
+-------------------
+git clone URL
+
